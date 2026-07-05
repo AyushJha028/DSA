@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushJha028/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AyushJha028/DSA/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJha028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJha028/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AyushJha028/DSA/tree/master/0169-majority-element) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushJha028/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AyushJha028/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/AyushJha028/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJha028/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AyushJha028/DSA/tree/master/0189-rotate-array) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AyushJha028/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/AyushJha028/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
