@@ -1,9 +1,9 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        if(n==0 || n==1)
+        if(n== 0 || n==1)
             return n;
-        long long ans;
+        //long long ans;
         string temp=to_string(n);
         string nonze="";
         long long sum=0;
@@ -16,7 +16,6 @@ public:
                 continue;
         }
         int val=stoi(nonze);
-        ans= sum * val;
-        return ans;
+        return sum * val;
     }
 };
