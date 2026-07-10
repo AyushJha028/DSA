@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyushJha028/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AyushJha028/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyushJha028/DSA/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/AyushJha028/DSA/tree/master/0048-rotate-image) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyushJha028/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushJha028/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AyushJha028/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
