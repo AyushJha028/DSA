@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AyushJha028/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AyushJha028/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AyushJha028/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AyushJha028/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AyushJha028/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AyushJha028/DSA/tree/master/0048-rotate-image) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushJha028/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/AyushJha028/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushJha028/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AyushJha028/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/AyushJha028/DSA/tree/master/0058-length-of-last-word) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushJha028/DSA/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AyushJha028/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
