@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AyushJha028/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AyushJha028/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyushJha028/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/AyushJha028/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AyushJha028/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJha028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AyushJha028/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyushJha028/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushJha028/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/AyushJha028/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AyushJha028/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AyushJha028/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushJha028/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyushJha028/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJha028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AyushJha028/DSA/tree/master/0392-is-subsequence) |
 ## String
@@ -108,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushJha028/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AyushJha028/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AyushJha028/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
