@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AyushJha028/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AyushJha028/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AyushJha028/DSA/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyushJha028/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AyushJha028/DSA/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AyushJha028/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AyushJha028/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushJha028/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/AyushJha028/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AyushJha028/DSA/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
