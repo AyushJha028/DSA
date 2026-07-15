@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AyushJha028/DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AyushJha028/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AyushJha028/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AyushJha028/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJha028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJha028/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AyushJha028/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AyushJha028/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AyushJha028/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/AyushJha028/DSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AyushJha028/DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/AyushJha028/DSA/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
