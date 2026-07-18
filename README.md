@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AyushJha028/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJha028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AyushJha028/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJha028/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AyushJha028/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushJha028/DSA/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AyushJha028/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AyushJha028/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/AyushJha028/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AyushJha028/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AyushJha028/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AyushJha028/DSA/tree/master/0202-happy-number) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AyushJha028/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
