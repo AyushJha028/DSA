@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AyushJha028/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AyushJha028/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AyushJha028/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AyushJha028/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJha028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushJha028/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushJha028/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AyushJha028/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AyushJha028/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJha028/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AyushJha028/DSA/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AyushJha028/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushJha028/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AyushJha028/DSA/tree/master/0055-jump-game) |
 ## Sliding Window
 |  |
 | ------- |
