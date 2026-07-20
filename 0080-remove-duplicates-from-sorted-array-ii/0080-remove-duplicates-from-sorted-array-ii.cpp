@@ -10,6 +10,7 @@ public:
                 nums[k] = nums[i];
                 k++;
             }
+           
         }
         return k;
     }
