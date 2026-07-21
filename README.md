@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AyushJha028/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AyushJha028/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AyushJha028/DSA/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/AyushJha028/DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/AyushJha028/DSA/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/AyushJha028/DSA/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AyushJha028/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AyushJha028/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AyushJha028/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AyushJha028/DSA/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/AyushJha028/DSA/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AyushJha028/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/AyushJha028/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
