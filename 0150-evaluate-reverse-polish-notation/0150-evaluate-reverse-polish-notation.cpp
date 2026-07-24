@@ -9,14 +9,11 @@ public:
                 st.pop();
                 int b=st.top();
                 st.pop();
-                int c;
                 if(tokens[i] == "+" ){
-                    c=b+a;
-                    st.push(c);
+                    st.push(b+a);
                 }
                 else if(tokens[i] == "-" ){
-                    c=b-a;
-                    st.push(c);
+                    st.push(b-a);
                 }
                 else if(tokens[i] == "*" ){
                     st.push(b*a);
