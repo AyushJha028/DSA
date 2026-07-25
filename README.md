@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AyushJha028/DSA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AyushJha028/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJha028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/AyushJha028/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushJha028/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushJha028/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AyushJha028/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AyushJha028/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/AyushJha028/DSA/tree/master/0274-h-index) |
+| [3536-maximum-product-of-two-digits](https://github.com/AyushJha028/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
