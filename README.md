@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushJha028/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AyushJha028/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AyushJha028/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AyushJha028/DSA/tree/master/0013-roman-to-integer) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushJha028/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/AyushJha028/DSA/tree/master/0141-linked-list-cycle) |
 ## String Matching
 |  |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AyushJha028/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AyushJha028/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
