@@ -253,21 +253,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/AyushJha028/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AyushJha028/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AyushJha028/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AyushJha028/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AyushJha028/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AyushJha028/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AyushJha028/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AyushJha028/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Union-Find
 |  |
 | ------- |
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/AyushJha028/DSA/tree/master/0371-sum-of-two-integers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AyushJha028/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
