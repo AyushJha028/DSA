@@ -22,7 +22,7 @@ public:
         k=k%n;
         if(k==0)
             return head;
-        temp->next=head;
+        temp->next = head;
         ListNode* curr=head;
         ListNode* newhead=NULL;
         for(int i=1;i<n-k;i++){
