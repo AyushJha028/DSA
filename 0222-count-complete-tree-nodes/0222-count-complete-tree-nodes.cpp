@@ -12,32 +12,35 @@
 class Solution {
 public:
     int leftcount(TreeNode* root){
-        TreeNode* temp =root;
-        int lh=0;
-        while(temp){
-            temp =temp->left;
-            lh++;
-        }
-        return lh;
-    }
-
-    int rightcount(TreeNode* root){
+        if(root == NULL)
+            return 0;
         TreeNode* temp=root;
-        int rh=0;
+        int count=0;
         while(temp){
-            temp = temp->right;
-            rh++;
+            temp = temp->left;
+            count++;
         }
-        return rh;
+        return count;
     }
-
+    
+    int rightcount(TreeNode* root){
+        if(root == NULL) 
+            return 0;
+        TreeNode* temp = root;
+        int count=0;
+        while(temp){
+            temp=temp->right;
+            count++;
+        }
+        return count;
+    }
     int countNodes(TreeNode* root) {
         if(root == nullptr)
             return 0;
         int lh=leftcount(root);
         int rh=rightcount(root);
-        if(lh == rh )
-            return pow(2,lh) -1;
-        return countNodes(root->left) + countNodes(root->right) +1;
+        if(lh == rh)
+            return pow(2,lh) - 1;
+        return  1 + countNodes(root->left) + countNodes(root->right);
     }
 };
