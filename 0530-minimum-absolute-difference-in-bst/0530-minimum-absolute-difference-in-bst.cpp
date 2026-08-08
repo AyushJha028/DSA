@@ -11,23 +11,24 @@
  */
 class Solution {
 public:
-    vector<int>temp;
-    void dfs(TreeNode* root){
-        if(root == nullptr)
-            return ;
-        int d=root->val;
-        temp.push_back(d);
-        dfs(root->left);
-        dfs(root->right);
+    void dfs(TreeNode* root,vector<int>& nums){
+        if(root == NULL)
+            return;
+        dfs(root->left,nums);
+        nums.push_back(root->val);
+        dfs(root->right,nums);
     }
     int getMinimumDifference(TreeNode* root) {
-       dfs(root);
-       sort(temp.begin(),temp.end());
-       int ans=INT_MAX;
-       int n=temp.size();
-       for(int i=0;i<n-1;i++){
-            ans=min(ans,temp[i+1]-temp[i]);
-       } 
-       return ans;
+        if(root == NULL)
+            return 0;
+        vector<int> nums;
+        dfs(root,nums);
+        //sort(nums.begin)
+        int n=nums.size();
+        int ans=INT_MAX;
+        for(int i=0;i<n-1;i++){
+            ans=min(ans,nums[i+1]-nums[i]);
+        }
+        return ans;
     }
 };
