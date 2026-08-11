@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJha028/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushJha028/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushJha028/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/AyushJha028/DSA/tree/master/0278-first-bad-version) |
 ## Greedy
 |  |
 | ------- |
@@ -406,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AyushJha028/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
