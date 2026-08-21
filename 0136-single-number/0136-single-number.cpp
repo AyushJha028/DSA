@@ -1,14 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int> mpp;
-        for(int num:nums){
-            mpp[num]++;
+        int xor1=0;
+        for(auto num:nums){
+            xor1 = xor1^ num;
         }
-        for(auto& num:mpp){
-            if(num.second == 1)
-                return num.first;
-        }
-        return -1;
+        return xor1;
     }
 };
