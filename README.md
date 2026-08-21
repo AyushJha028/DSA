@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AyushJha028/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AyushJha028/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AyushJha028/DSA/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/AyushJha028/DSA/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/AyushJha028/DSA/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJha028/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AyushJha028/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJha028/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AyushJha028/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AyushJha028/DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/AyushJha028/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AyushJha028/DSA/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/AyushJha028/DSA/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushJha028/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
