@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/AyushJha028/DSA/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyushJha028/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJha028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AyushJha028/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushJha028/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AyushJha028/DSA/tree/master/0383-ransom-note) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyushJha028/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushJha028/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AyushJha028/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushJha028/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
