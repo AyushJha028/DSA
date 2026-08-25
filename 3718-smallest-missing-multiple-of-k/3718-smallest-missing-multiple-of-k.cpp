@@ -9,7 +9,7 @@ public:
         }
         for(int i=k;i<k*100; i+=k){
             if(mpp.find(i) == mpp.end()){
-                ans=min(ans,i);
+                return i;
             }
         }
         int count=0;
