@@ -4,16 +4,17 @@ public:
         int n=s.size();
         stack<char> st;
         for(int i=0;i<n;i++){
-            if(st.empty() && (s[i] == ')' || s[i] == '}' || s[i] == ']') )
+            if(st.empty() && (s[i] == ')' || s[i] == '}' || s[i] == ']')){
                 return false;
-            else if ((s[i]==')' && st.top() != '(' ) || (s[i]=='}' && st.top() != '{' ) || (s[i]==']' && st.top() != '[' ) )
-                return false;
-            else if((s[i]==')' && st.top() == '(' ) || (s[i]=='}' && st.top() == '{' ) || (s[i]==']' && st.top() == '[' ))
+            }
+            else if(!st.empty() && ((st.top() == '(' && s[i] == ')') || (st.top() == '[' && s[i] == ']') || (st.top() == '{' && s[i] == '}'))){
                 st.pop();
-            else
+            }
+            else{
                 st.push(s[i]);
+            }
+        }    
 
-        }
-        return st.empty();
+        return st.empty();    
     }
 };
