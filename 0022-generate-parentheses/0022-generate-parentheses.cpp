@@ -1,29 +1,42 @@
 class Solution {
 public:
     vector<string> ans;
-    void solve(string& curr,int n, int open,int close){
-        if(curr.size() == 2*n){
-            ans.push_back(curr);
-            return;
-        }
-        if(open < n){
-            curr.push_back('(');
-            solve(curr,n,open+1,close);
-            curr.pop_back();
-        }
 
-        if(close<open){
-            curr.push_back(')');
-            solve(curr,n,open,close+1);
-            curr.pop_back();
+    bool isValid(string path){
+        stack<char> st;
+        int n=path.size();
+        for(int i=0;i<n;i++){
+            if(st.empty() && path[i] == ')'){
+                return false;
+            }
+            else if(!st.empty() && (st.top() == '(' && path[i] == ')')){
+                st.pop();
+            }
+            else{
+                st.push(path[i]);
+            }
         }
+        return st.empty();
     }
 
+    void solve(string& path,int n){
+        if(path.size() == 2*n){
+            if(isValid(path)){
+                ans.push_back(path);
+            }
+            return;
+        }
+        path.push_back('(');
+        solve(path,n);
+        path.pop_back();
+
+        path.push_back(')');
+        solve(path,n);
+        path.pop_back();
+    }
     vector<string> generateParenthesis(int n) {
-        string path = "";
-        int open=0;
-        int close=0;
-        solve(path,n,open,close);
+        string path="";
+        solve(path,n);
         return ans;
     }
 };
