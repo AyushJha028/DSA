@@ -1,32 +1,24 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    unordered_set<int> st;
     int n;
-    void solve(vector<int>& poss,vector<int>& nums){
-        if(poss.size() == n){
-            ans.push_back(poss);
+
+    void solve(int idx,vector<int>& nums){
+        if(idx == n){
+            ans.push_back(nums);
             return;
         }
 
-        for(int i=0;i<n;i++){
-            if(st.find(nums[i]) == st.end()){
-                poss.push_back(nums[i]);
-                st.insert(nums[i]);
-
-                solve(poss,nums);
-
-                poss.pop_back();
-                st.erase(nums[i]);
-            }
+        for(int i=idx;i<n;i++){
+            swap(nums[i],nums[idx]);
+            solve(idx+1,nums);
+            swap(nums[i],nums[idx]);
         }
     }
-
     vector<vector<int>> permute(vector<int>& nums) {
         n=nums.size();
-        vector<int> poss;
-        solve(poss,nums);
-
+        //vector<int> per;
+        solve(0,nums);
         return ans;
     }
 };
