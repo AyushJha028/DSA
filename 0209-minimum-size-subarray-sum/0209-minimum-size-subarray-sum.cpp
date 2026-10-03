@@ -4,16 +4,17 @@ public:
         int n=nums.size();
         int ans=INT_MAX;
         int j=0;
-        int sum=0;
+        int sum =0;
+        //unordered_map<int,int>mpp;
         for(int i=0;i<n;i++){
             sum += nums[i];
             while(sum >= target){
                 sum -= nums[j];
-                ans= min(ans,i-j+1);
+                ans=min(ans,i-j+1);
                 j++;
             }
         }
-        if(ans ==  INT_MAX)
+        if(ans == INT_MAX)
             return 0;
         return ans;
     }
