@@ -1,37 +1,31 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
     int n;
-    
-    void solve(vector<int>& temp,unordered_map<int,int>& mpp){
-        if(temp.size() == n){
-            ans.push_back(temp);
+    vector<vector<int>> ans;
+
+    void solve(vector<int>& nums, int idx){
+        if(idx == n){
+            ans.push_back(nums);
             return;
         }
-        for(auto& [num,count] : mpp){
-            if(count == 0) 
+        unordered_set<int> st;
+        for(int i=idx;i<n;i++){
+            if(st.find(nums[i]) !=  st.end()){
                 continue;
+            }
 
-            temp.push_back(num);
-            mpp[num]--;
+            st.insert(nums[i]);
+            swap(nums[i] , nums[idx]);
 
-            solve(temp,mpp);
+            solve(nums,idx+1);
 
-            temp.pop_back();
-            mpp[num]++;
+            swap(nums[i],nums[idx]);
         }
     }
-
-
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         n=nums.size();
-        unordered_map<int,int> mpp;
-        for(auto& num:nums){
-            mpp[num]++;
-        }    
 
-        vector<int> temp;
-        solve(temp,mpp);
+        solve(nums,0);
 
         return ans;
     }
