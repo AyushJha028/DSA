@@ -1,22 +1,31 @@
 class Solution {
 public:
     vector<vector<int>> ans;
+    int n;
+  //  unordered_set<int> st;
 
-    void solve(vector<int>& nums,vector<int>& path,int i){
-        if(i >= nums.size()){
-            ans.push_back(path);
+    void solve(vector<int>& nums,vector<int>& temp,int idx){
+        if(idx >= n){
+            ans.push_back(temp);
             return;
         }
-        path.push_back(nums[i]);
-        solve(nums,path,i+1);
-        path.pop_back();
+        
+        
+        temp.push_back(nums[idx]);
+           // st.insert(nums[i]);
 
-        solve(nums,path,i+1);
+        solve(nums,temp,idx+1);
+            //st.erase(nums[i]);
+        temp.pop_back();
+
+        solve(nums,temp,idx+1);
+       
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> path;
-        solve(nums,path,0);
-        sort(ans.begin(),ans.end());
+        n=nums.size();
+        vector<int> temp;
+        solve(nums,temp,0);
+
         return ans;
     }
 };
