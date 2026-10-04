@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AyushJha028/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushJha028/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/AyushJha028/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/AyushJha028/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AyushJha028/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushJha028/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/AyushJha028/DSA/tree/master/0867-transpose-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AyushJha028/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AyushJha028/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/AyushJha028/DSA/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/AyushJha028/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AyushJha028/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AyushJha028/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyushJha028/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushJha028/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AyushJha028/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/AyushJha028/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushJha028/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AyushJha028/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
