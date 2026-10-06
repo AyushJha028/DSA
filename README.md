@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyushJha028/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AyushJha028/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushJha028/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/AyushJha028/DSA/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/AyushJha028/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AyushJha028/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AyushJha028/DSA/tree/master/0877-stone-game) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AyushJha028/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushJha028/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushJha028/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/AyushJha028/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AyushJha028/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AyushJha028/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/AyushJha028/DSA/tree/master/1314-matrix-block-sum) |
