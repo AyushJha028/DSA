@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/AyushJha028/DSA/tree/master/1314-matrix-block-sum) |
 | [1528-shuffle-string](https://github.com/AyushJha028/DSA/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyushJha028/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AyushJha028/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJha028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AyushJha028/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushJha028/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AyushJha028/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/AyushJha028/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AyushJha028/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AyushJha028/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushJha028/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
