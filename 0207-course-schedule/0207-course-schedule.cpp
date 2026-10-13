@@ -1,43 +1,49 @@
 class Solution {
 public:
-    int n;
-    bool dfs(unordered_map<int,vector<int>>& adj, vector<bool>& visited, int u,vector<bool>& inRecursion){
-        visited[u] = true;
-        inRecursion[u] = true;
+    bool bfs(unordered_map<int,vector<int>>& adj,int n,vector<int>& indegree){
+        queue<int> q;
+        int count=0;
 
-        for(int& e: adj[u]){
-            if(!visited[e] &&  dfs(adj,visited,e,inRecursion)){
-               return true;
-            }
-            else if(visited[e] && inRecursion[e]){
-                return true;
+        for(int i=0;i<n;i++){
+            if(indegree[i] == 0){
+                q.push(i);
+                count++;
+
             }
         }
+            while(! q.empty()){
+                int u=q.front();
+                q.pop();
 
-        inRecursion[u] = false;
+                for(int &v:adj[u]){
+                    indegree[v]--;
+                    if(indegree[v] == 0){
+                        count++;
+                        q.push(v);
+                    }
+                }
+            }
+    
+        if(count == n)
+            return true;
+        
         return false;
-
     }
 
 
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites ) {
-        n=numCourses;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         unordered_map<int,vector<int>> adj;
-        vector<bool> visited(n,false);
-        vector<bool> inRecursion(n,false);
+        vector<int> indegree(numCourses,0);
 
-        for(auto&  e:prerequisites){
+        for(auto& e:prerequisites){
             int u=e[0];
             int v=e[1];
-            adj[u].push_back(v);
+
+            adj[v].push_back(u);
+
+            indegree[u]++;
         }
 
-        for(int i=0;i<n;i++){
-                if(! visited[i] && dfs(adj,visited,i,inRecursion)){
-                    return false;
-                }
-        }
-        return true;
-
+        return bfs(adj,numCourses,indegree);
     }
 };
