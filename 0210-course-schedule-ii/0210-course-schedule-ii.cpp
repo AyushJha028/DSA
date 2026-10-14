@@ -1,51 +1,53 @@
 class Solution {
 public:
-    
-    vector<int> solveBFS(unordered_map<int,vector<int>>& adj,int n,vector<int>& indegree){
-        queue<int> q;
+    bool hasCycle;
 
-        vector<int> ans;
-        int count=0;
+    void dfs(unordered_map<int,vector<int>>& adj,int u,vector<bool>& visited, vector<bool>& inRecursion,stack<int>& st){
+        inRecursion[u] = true;
+        visited[u] = true;
 
-        for(int i=0;i<n;i++){
-            if(indegree[i] == 0){
-                q.push(i);
-                count++;
-                ans.push_back(i);
+        for(int& e:adj[u]){
+            if(inRecursion[e] == true){
+                hasCycle = true;
+                return;
+            }
+
+            if(!visited[e]){
+                dfs(adj,e,visited,inRecursion,st);
             }
         }
-
-        while(!q.empty()){
-            int u=q.front();
-            q.pop();
-            for(int& v:adj[u]){
-                indegree[v]--;
-
-                if(indegree[v] == 0){
-                    ans.push_back(v);
-                    count++;
-                    q.push(v);
-                }
-            }
-        }
-
-        if(count == n){
-            return ans;
-        }
-        return {};
+        st.push(u);
+        inRecursion[u] = false;
     }
-
 
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         unordered_map<int,vector<int>> adj;
-        vector<int> indegree(numCourses,0);
+        vector<bool> visited(numCourses,false);
+        vector<bool> inRecursion(numCourses,false);
+
         for(auto& e:prerequisites){
             int u=e[0];
             int v=e[1];
             adj[v].push_back(u);
-            indegree[u]++;
         }
 
-        return solveBFS(adj,numCourses,indegree);
+        stack<int> st;
+
+        for(int i=0;i<numCourses;i++){
+           // hasCycle = false;
+            if(! visited[i]){
+                dfs(adj,i,visited,inRecursion,st);
+            }
+            
+        }
+        if(hasCycle){
+            return {};
+        }
+        vector<int> ans;
+        while(!st.empty()){
+            ans.push_back(st.top());
+            st.pop();
+        }
+        return ans;
     }
 };
