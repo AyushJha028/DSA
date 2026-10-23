@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/AyushJha028/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AyushJha028/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AyushJha028/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AyushJha028/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushJha028/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AyushJha028/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AyushJha028/DSA/tree/master/3731-find-missing-elements) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AyushJha028/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/AyushJha028/DSA/tree/master/0371-sum-of-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AyushJha028/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AyushJha028/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search Tree
 |  |
 | ------- |
