@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AyushJha028/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/AyushJha028/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/AyushJha028/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AyushJha028/DSA/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyushJha028/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AyushJha028/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AyushJha028/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/AyushJha028/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/AyushJha028/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AyushJha028/DSA/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyushJha028/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AyushJha028/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushJha028/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJha028/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/AyushJha028/DSA/tree/master/0743-network-delay-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AyushJha028/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AyushJha028/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyushJha028/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AyushJha028/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/AyushJha028/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AyushJha028/DSA/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AyushJha028/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyushJha028/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -651,4 +655,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/AyushJha028/DSA/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AyushJha028/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AyushJha028/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
