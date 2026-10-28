@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/AyushJha028/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AyushJha028/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AyushJha028/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AyushJha028/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/AyushJha028/DSA/tree/master/1314-matrix-block-sum) |
 | [1528-shuffle-string](https://github.com/AyushJha028/DSA/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyushJha028/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AyushJha028/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/AyushJha028/DSA/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/AyushJha028/DSA/tree/master/0867-transpose-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AyushJha028/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/AyushJha028/DSA/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/AyushJha028/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AyushJha028/DSA/tree/master/0785-is-graph-bipartite) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AyushJha028/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyushJha028/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AyushJha028/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
