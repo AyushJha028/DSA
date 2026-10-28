@@ -1,28 +1,39 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int mini=0;
-        int maxi=0;
-        for(char& ch:s){
+        int n=s.size();
+        stack<int> open;
+        stack<int> astrick;
+        for(int i=0;i<n;i++){
+            char ch = s[i];
             if(ch == '('){
-                mini++;
-                maxi++;
+                open.push(i);
             }
-            else if(ch == ')'){
-                mini--;
-                maxi--;
+            else if(ch == '*'){
+                astrick.push(i);
             }
             else{
-                maxi++;
-                mini--;
-            }
-            if(maxi < 0){
-                return false;
-            }
-            if(mini < 0){
-                mini= 0;
+                if(! open.empty()){
+                    open.pop();
+                }
+                else if(! astrick.empty()){
+                    astrick.pop();
+                }
+                else{
+                    return false;
+                }
             }
         }
-        return mini == 0;
+
+        while(! open.empty() && !astrick.empty()){
+            int o = open.top();
+            int a = astrick.top();
+            open.pop();
+            astrick.pop();
+            if(o > a){
+                return false;
+            }
+        }
+        return open.empty();
     }
 };
