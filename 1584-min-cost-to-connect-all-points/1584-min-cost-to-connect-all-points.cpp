@@ -1,44 +1,64 @@
 class Solution {
 public:
-    typedef pair<int,int> P;
+    vector<int> parent;
+    vector<int> rank; 
 
-    int PrimsAlgo(vector<vector<P>>& adj, int V){
-        priority_queue<P,vector<P>,greater<P>> pq;
-        int sum = 0;
-        vector<bool> inMST(V,false);
-        pq.push({0,0});
+    int find(int x){
+        if(parent[x]  == x)
+            return x;
 
-        while(! pq.empty()){
-            auto curr = pq.top();
-            pq.pop();
-            int wt = curr.first;
-            int node = curr.second;
+        return parent[x] = find(parent[x]);
+    }
 
-            if(inMST[node]){
-                continue;
-            }
-            inMST[node] = true;
-            sum += wt;
-            for(auto& it:adj[node]){
-                int neigh = it.first;
-                int neighwt  = it.second;
+    void Union(int x,int y){
+        int parent_x = find(x);
+        int parent_y = find(y);
 
-                if(inMST[neigh]  == false){
-                    pq.push({neighwt,neigh});
-                }
-            }
+        if(parent_x == parent_y)
+            return;
+
+        if(rank[parent_x] < rank[parent_y]){
+            parent[parent_x] = parent_y;
         }
+        else if(rank[parent_y] < rank[parent_x]){
+            parent[parent_y] = parent_x;
+        }
+        else{
+            parent[parent_x] = parent_y;
+            rank[parent_y]++;
+        }
+    }
 
+    int Kruskal(vector<vector<int>>& adj){
+        int sum =0;
 
+        for(auto& ad:adj){
+            int u=ad[0];
+            int v = ad[1];
+            int wt = ad[2];
+            
+            int parent_u = find(u);
+            int parent_v = find(v);
+
+             if(parent_u != parent_v){
+                Union(u,v);
+                sum += wt;
+             }
+        }
 
         return sum;
     }
-
     int minCostConnectPoints(vector<vector<int>>& points) {
-        int V = points.size();
+        int V= points.size();
 
-        vector<vector<P>> adj(V);
+        parent.resize(V);
+        rank.resize(V,0);
 
+        for(int i=0;i<V;i++){
+            parent[i] = i;
+        }
+
+        vector<vector<int>> adj;
         for(int i=0;i<V;i++){
             for(int j=i+1;j<V;j++){
                 int x1 = points[i][0];
@@ -47,14 +67,16 @@ public:
                 int x2 = points[j][0];
                 int y2 = points[j][1];
 
-                int dist = abs(x1 - x2) + abs(y1 - y2);
+                int dist = abs(x1-x2) + abs(y1-y2);
 
-                adj[i].push_back({j,dist});
-                adj[j].push_back({i,dist});
-
+                adj.push_back({i,j,dist});
             }
         }
 
-        return PrimsAlgo(adj,V);
+        auto comparator = [&](auto& v1, auto& v2) {
+            return v1[2] < v2[2];
+        };
+        sort(adj.begin(),adj.end(),comparator);
+        return Kruskal(adj);
     }
 };
