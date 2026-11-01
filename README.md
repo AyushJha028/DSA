@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AyushJha028/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AyushJha028/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushJha028/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushJha028/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/AyushJha028/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushJha028/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AyushJha028/DSA/tree/master/0704-binary-search) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AyushJha028/DSA/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/AyushJha028/DSA/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AyushJha028/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushJha028/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/AyushJha028/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJha028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushJha028/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
