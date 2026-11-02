@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AyushJha028/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/AyushJha028/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AyushJha028/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2097-valid-arrangement-of-pairs](https://github.com/AyushJha028/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AyushJha028/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/AyushJha028/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyushJha028/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/AyushJha028/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AyushJha028/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/AyushJha028/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/AyushJha028/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2097-valid-arrangement-of-pairs](https://github.com/AyushJha028/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AyushJha028/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/AyushJha028/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AyushJha028/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
