@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AyushJha028/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyushJha028/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AyushJha028/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1765-map-of-highest-peak](https://github.com/AyushJha028/DSA/tree/master/1765-map-of-highest-peak) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJha028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/AyushJha028/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AyushJha028/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/AyushJha028/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/AyushJha028/DSA/tree/master/1314-matrix-block-sum) |
 | [1631-path-with-minimum-effort](https://github.com/AyushJha028/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/AyushJha028/DSA/tree/master/1765-map-of-highest-peak) |
 ## Simulation
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/AyushJha028/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyushJha028/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/AyushJha028/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/AyushJha028/DSA/tree/master/1765-map-of-highest-peak) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AyushJha028/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/AyushJha028/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
