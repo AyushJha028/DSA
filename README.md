@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyushJha028/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AyushJha028/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1765-map-of-highest-peak](https://github.com/AyushJha028/DSA/tree/master/1765-map-of-highest-peak) |
+| [1882-process-tasks-using-servers](https://github.com/AyushJha028/DSA/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJha028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/AyushJha028/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AyushJha028/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AyushJha028/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/AyushJha028/DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/AyushJha028/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/AyushJha028/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AyushJha028/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AyushJha028/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushJha028/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
