@@ -3,28 +3,21 @@ public:
     int countServers(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        int count = 0;
+        vector<int> colServer(n,0);
+        vector<int> rowServer(m,0);
+        int count =0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j] == 1){
-                    bool canConn = false;
-                    for(int k=0;k<m;k++){
-                        if(grid[k][j] == 1 && k != i){
-                            canConn = true;
-                            break;
-                        }
-                    }
-                    if(canConn){
-                        count +=1;
-                    }
-                    else{
-                        for(int k=0;k<n;k++){
-                        if(grid[i][k] == 1 && k != j){
-                           count +=1;
-                           break;
-                        }
-                    }
-                    }
+                    colServer[j]++;
+                    rowServer[i]++;
+                }
+            }
+        }
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j] == 1 && (colServer[j] >1 || rowServer[i] > 1)){
+                    count++;
                 }
             }
         }
