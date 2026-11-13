@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AyushJha028/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AyushJha028/DSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AyushJha028/DSA/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/AyushJha028/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AyushJha028/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AyushJha028/DSA/tree/master/0075-sort-colors) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AyushJha028/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AyushJha028/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AyushJha028/DSA/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/AyushJha028/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/AyushJha028/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/AyushJha028/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushJha028/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AyushJha028/DSA/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/AyushJha028/DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/AyushJha028/DSA/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/AyushJha028/DSA/tree/master/0867-transpose-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AyushJha028/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
