@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AyushJha028/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AyushJha028/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AyushJha028/DSA/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/AyushJha028/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushJha028/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AyushJha028/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushJha028/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AyushJha028/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AyushJha028/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AyushJha028/DSA/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/AyushJha028/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushJha028/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AyushJha028/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AyushJha028/DSA/tree/master/0189-rotate-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AyushJha028/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/AyushJha028/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AyushJha028/DSA/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/AyushJha028/DSA/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/AyushJha028/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AyushJha028/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AyushJha028/DSA/tree/master/0205-isomorphic-strings) |
@@ -803,4 +806,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AyushJha028/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/AyushJha028/DSA/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/AyushJha028/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/AyushJha028/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
