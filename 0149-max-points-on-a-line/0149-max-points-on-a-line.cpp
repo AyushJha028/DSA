@@ -4,24 +4,27 @@ public:
         int n = points.size();
         if(n == 1)
             return 1;
-        
         int ans = 0;
+
         for(int i=0;i<n;i++){
-            unordered_map<double, int> mpp;
-            for(int j=0;j<n;j++){
-                if(i == j)
-                    continue;
+            for(int j=i+1;j<n;j++){
+                int count = 2;
+                int dx = points[j][0] - points[i][0];
+                int dy = points[j][1] - points[i][1];
 
-                auto dy = points[j][1] - points[i][1];
-                auto dx = points[j][0]  - points[i][0];
+                for(int k=0;k<n;k++){
+                    if(k != i && k != j){
+                        int dx_ = points[k][0] - points[i][0];
+                        int dy_ = points[k][1] - points[i][1];
 
-                auto theta = atan2(dy,dx);
-
-                mpp[theta]++;
+                        if(dy * dx_ == dy_ * dx){
+                            count++;
+                        }
+                    }
+                }
+                ans = max(ans,count);
             }
-            for(auto & it:mpp){
-                ans = max(ans,it.second+1);
-            }
+
         }
 
         return ans;
