@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AyushJha028/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AyushJha028/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AyushJha028/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AyushJha028/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyushJha028/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AyushJha028/DSA/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushJha028/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/AyushJha028/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/AyushJha028/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AyushJha028/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/AyushJha028/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AyushJha028/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushJha028/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AyushJha028/DSA/tree/master/0205-isomorphic-strings) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AyushJha028/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushJha028/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AyushJha028/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AyushJha028/DSA/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/AyushJha028/DSA/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/AyushJha028/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/AyushJha028/DSA/tree/master/0994-rotting-oranges) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AyushJha028/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/AyushJha028/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AyushJha028/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJha028/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/AyushJha028/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AyushJha028/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AyushJha028/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AyushJha028/DSA/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/AyushJha028/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Algorithm X
 |  |
