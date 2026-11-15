@@ -1,43 +1,41 @@
 class LRUCache {
 public:
-    vector<pair<int,int>> cache;
+    list<int> dll;
+    map<int, pair<list<int>::iterator,int>> mpp;
     int n;
     LRUCache(int capacity) {
-        n = capacity;
+        n= capacity;
+    }
+
+    void makeMRU(int key){
+        dll.erase(mpp[key].first);
+        dll.push_front(key);
+        mpp[key].first = dll.begin();
     }
     
     int get(int key) {
-        for(int i=0;i<cache.size();i++){
-            if(cache[i].first == key){
-                int val = cache[i].second;
+        if(!mpp.count(key))
+            return -1;
 
-                pair<int,int> temp = cache[i];
-                cache.erase(cache.begin()+i);
-                cache.push_back(temp);
-
-                return val;
-            }
-        }
-
-        return -1;
+        makeMRU(key);
+        return mpp[key].second;
     }
     
     void put(int key, int value) {
-
-        for(int i=0;i<cache.size();i++){
-            if(cache[i].first == key){
-                cache.erase(cache.begin()+i);
-                cache.push_back({key,value});
-                return;
-            }
-        }
-
-        if(cache.size() == n){
-            cache.erase(cache.begin());
-            cache.push_back({key,value});
+        if(mpp.count(key)){
+            mpp[key].second = value;
+            makeMRU(key);
         }
         else{
-            cache.push_back({key,value});
+            dll.push_front(key);
+            mpp[key] = {dll.begin(), value};
+            n--;
+        }
+
+        if(n < 0){
+            mpp.erase(dll.back());
+            dll.pop_back();
+            n++;
         }
     }
 };
