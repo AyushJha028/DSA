@@ -3,7 +3,7 @@ public:
     int m,n,s;
     vector<vector<int>> directions ={{0,1},{1,0},{0,-1},{-1,0}};
 
-    bool find(int i,int j,vector<vector<char>>& board,string word, int idx){
+    bool find(int i,int j,vector<vector<char>>& board,string& word, int idx){
 
         if(idx == s){
             return true;
@@ -20,7 +20,7 @@ public:
         char temp = board[i][j];
         board[i][j] = '$';
         
-        for(auto dir:directions){
+        for(auto& dir:directions){
             int x = i + dir[0];
             int y = j + dir[1];
 
