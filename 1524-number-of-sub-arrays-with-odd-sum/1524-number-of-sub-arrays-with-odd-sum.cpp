@@ -2,26 +2,21 @@ class Solution {
 public:
     int numOfSubarrays(vector<int>& arr) {
         int n = arr.size();
-        int M =1e9+7;
+        int M = 1e9+7;
 
-        vector<int> pre(n,0);
-        pre[0] = arr[0];
-
-        for(int i=1;i<n;i++){
-            pre[i] = pre[i-1] + arr[i];
-        }
-
-        int count =0;
-        int odd = 0;
+        int sum = 0;
         int even = 1;
+        int odd = 0;
+        int count =0;
 
         for(int i=0;i<n;i++){
-            if(pre[i] % 2 == 0){
+            sum += arr[i];
+            if(sum%2 == 0){
                 count = (count + odd) % M;
                 even++;
             }
             else{
-                count = (count + even) % M;
+                count = (count + even ) % M;
                 odd++;
             }
         }
