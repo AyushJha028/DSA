@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/AyushJha028/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1314-matrix-block-sum](https://github.com/AyushJha028/DSA/tree/master/1314-matrix-block-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushJha028/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AyushJha028/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/AyushJha028/DSA/tree/master/1528-shuffle-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AyushJha028/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AyushJha028/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushJha028/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushJha028/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/AyushJha028/DSA/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AyushJha028/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJha028/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushJha028/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushJha028/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AyushJha028/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/AyushJha028/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AyushJha028/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AyushJha028/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AyushJha028/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushJha028/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushJha028/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/AyushJha028/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AyushJha028/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/AyushJha028/DSA/tree/master/1314-matrix-block-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AyushJha028/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
 | ------- |
