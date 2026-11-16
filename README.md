@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AyushJha028/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AyushJha028/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AyushJha028/DSA/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/AyushJha028/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AyushJha028/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AyushJha028/DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/AyushJha028/DSA/tree/master/0647-palindromic-substrings) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushJha028/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AyushJha028/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/AyushJha028/DSA/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/AyushJha028/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJha028/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushJha028/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushJha028/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/AyushJha028/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AyushJha028/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AyushJha028/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/AyushJha028/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AyushJha028/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushJha028/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/AyushJha028/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJha028/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AyushJha028/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/AyushJha028/DSA/tree/master/0502-ipo) |
@@ -851,4 +855,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AyushJha028/DSA/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AyushJha028/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
