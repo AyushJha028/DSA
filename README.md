@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushJha028/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushJha028/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/AyushJha028/DSA/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/AyushJha028/DSA/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushJha028/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AyushJha028/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushJha028/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AyushJha028/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushJha028/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushJha028/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0502-ipo](https://github.com/AyushJha028/DSA/tree/master/0502-ipo) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushJha028/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyushJha028/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AyushJha028/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AyushJha028/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AyushJha028/DSA/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushJha028/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/AyushJha028/DSA/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/AyushJha028/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AyushJha028/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushJha028/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushJha028/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJha028/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/AyushJha028/DSA/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/AyushJha028/DSA/tree/master/0743-network-delay-time) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AyushJha028/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/AyushJha028/DSA/tree/master/1631-path-with-minimum-effort) |
